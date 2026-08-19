@@ -1,0 +1,16 @@
+# Install a CUDA-compatible torch/torchvision pair separately for the target driver.
+numpy>=1.24
+Pillow>=10.0
+PyYAML>=6.0
+scipy>=1.10
+einops>=0.8
+accelerate>=0.30
+diffusers>=0.29
+transformers>=4.40
+safetensors>=0.4
+torch>=2.2
+torchvision>=0.17
+tensorboard>=2.14
+datasets>=2.18
+av>=12
+jsonlines>=4.0

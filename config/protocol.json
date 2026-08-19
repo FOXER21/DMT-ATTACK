@@ -1,0 +1,14 @@
+{
+  "protocol_id": "dmt_v1",
+  "method": "Diffusion-prior adversarial texture search for closed-loop VLA patch attacks",
+  "generator": {
+    "heads": 8,
+    "bottleneck": 128,
+    "hidden": 512,
+    "latent_dim": 16384,
+    "diffusion_steps": 30,
+    "guidance_scale": 7.5
+  },
+  "external_victim": "Pi0.5 by default",
+  "provenance": "Create a run manifest with model/data revisions and checksums before reporting results."
+}

@@ -1,0 +1,7 @@
+# Pi0/Pi0.5 + LIBERO/MuJoCo closed-loop evaluation.
+-r train.txt
+mujoco>=3.1
+gymnasium>=1.1
+robosuite>=1.4
+robomimic>=0.2
+cma>=3.3

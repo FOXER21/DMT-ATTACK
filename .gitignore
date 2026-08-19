@@ -1,0 +1,21 @@
+# Host configuration and generated DMT state
+config/runtime.env
+artifacts/**
+checkpoints/**
+logs/**
+outputs/**
+data/teacher/**
+data/textures/**
+data/gates/**
+data/baselines/**
+config/scene/base_scene.xml
+config/scene/base_scene.report.json
+models/**
+
+# Python/editor/cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
