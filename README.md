@@ -1,6 +1,6 @@
-# DMT
+# DMT-Attack: Diffusion-Prior Texture Search for Closed-Loop Vision-Language-Action Policies
 
-Reference implementation for **DMT: Diffusion-Prior Adversarial Texture Search for Closed-Loop VLA Patch Attacks**.
+Reference implementation for **DMT-Attack: Diffusion-Prior Texture Search for Closed-Loop Vision-Language-Action Policies**.
 
 DMT searches over the entry latent of a frozen Stable Diffusion sampler, turns
 the latent into a natural texture, places that texture in a LIBERO scene, and
